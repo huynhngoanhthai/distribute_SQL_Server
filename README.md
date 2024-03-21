@@ -37,7 +37,7 @@
 1. Clone repository từ GitHub:
 
 ```
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/huynhngoanhthai/distribute_SQL_Server.git
 ```
 
 2. Mở dự án trong môi trường phát triển (IDE) của bạn.
@@ -48,12 +48,12 @@ git clone https://github.com/your-username/your-repository.git
 
 ### Công nghệ sử dụng:
 
-- Ngôn ngữ lập trình: [Python](https://www.python.org/)
-- Framework: [Django](https://www.djangoproject.com/)
+- Ngôn ngữ lập trình: [C#]
+- Framework: [Winform]
 
 ### Tác giả:
 
-- [Tên của bạn](mailto:email@example.com)
+- [THÁI](mailto:huynhngoanhthai@gmail.com)
 
 ### Bản quyền:
 
