@@ -1,3 +1,50 @@
+# Bank Software Project
+
+This is a bank software project developed to provide basic features of a bank, including customer information update, account opening, employee management, and recording financial transactions. The project also includes features for data listing, statistics, and system administration with user permissions.
+
+## Main Features:
+A. Update:
+- Customer Update: Add, delete, edit customer information.
+- Open Account for Customers: Add a new account for customers.
+- Employee Update: Add, delete, edit employee information.
+- Transfer Employees to Another Branch: Transfer employees to another branch.
+- Update Customer Transactions: Record transactions: deposit, withdraw, transfer.
+- Support functions: Add, delete, recover, record, and exit.
+
+B. Listing - Statistics:
+- Statement of Account Transactions: Display detailed information about account transactions within the selected time frame.
+- List of Accounts Opened in a Time Frame by Branch: Display a list of accounts opened within a specific time frame of a specific or all branches.
+- List of Customers by Branch: Sort and display customer information by branch, in ascending order by name.
+
+C. Administration:
+- Administrative permissions for 2 groups: Bank and Branch.
+- Users in the Bank group can select branches to view reports and corresponding data.
+- Users in the Branch group only have the right to work on the branch they logged in to.
+- Support for creating login accounts with corresponding permissions.
+
+## Installation Guide:
+1. Clone the repository from GitHub:
+```
+git clone https://github.com/huynhngoanhthai/distribute_SQL_Server.git
+```
+2. Open the project in your development environment (IDE).
+3. Configure the environment and install necessary libraries (if any).
+4. Run the application and experience the features.
+
+## Technology Used:
+- Programming Language: C#
+- Framework: Winform
+
+## Author:
+THÁI
+
+## License:
+The project is released under the MIT License.
+
+Feel free to modify the main functions used as SP.
+
+
+--- VIETNAMESE ---
 ## README
 
 ### Dự án Phần mềm Ngân hàng
@@ -54,6 +101,8 @@ git clone https://github.com/huynhngoanhthai/distribute_SQL_Server.git
 ### Tác giả:
 
 - [THÁI](mailto:huynhngoanhthai@gmail.com)
+
+
 
 ### Bản quyền:
 
